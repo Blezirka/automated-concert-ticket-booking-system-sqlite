@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="курс sqlite/курс sqlite.vcxproj" />
+  <Project Path="курс sqlite/курс sqlite.vcxproj" Id="1a8521f7-6539-4b79-9006-a47f601925de" />
 </Solution>
